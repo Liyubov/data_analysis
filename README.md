@@ -4,4 +4,8 @@ We also study here the birth and death of hashtags, which are often led by exter
 
 As another alternative we plan to analyze threads of Polymath project e.g. https://dustingmixon.wordpress.com/2019/03/23/polymath16-twelfth-thread-year-in-review-and-future-plans/#comment-23695
 
-Hackathon which started from the visit of Lisa Hehnke from Correlaid.
+## Plots
+
+These are results from discussions (mini hackathon) which started from the visit of Lisa Hehnke from Correlaid.
+They are done on the dataset, which Lisa shared from her work 
+https://github.com/lhehnke/openscience-publications/tree/master/data
