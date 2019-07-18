@@ -1,8 +1,14 @@
 # Data analysis
-Folder for analysis of twitter data, personal twitter data and data from several accounts. We also plan to analyse hashtags activity and propagation of openscience through networks of twitter followers. 
+
+Here we analyze different types of data 
+1. Twitter data, personal twitter data and data from several accounts. We also plan to analyse hashtags activity and propagation of openscience through networks of twitter followers. 
 We also study here the birth and death of hashtags, which are often led by external events.
 
-As another alternative we plan to analyze threads of Polymath project e.g. https://dustingmixon.wordpress.com/2019/03/23/polymath16-twelfth-thread-year-in-review-and-future-plans/#comment-23695
+2. As another alternative we plan to analyze threads of Polymath project e.g. https://dustingmixon.wordpress.com/2019/03/23/polymath16-twelfth-thread-year-in-review-and-future-plans/#comment-23695
+
+
+3.  Another type of data, which was preprocesses by  Natera Orozco, Luis Guillermo, 2019, "Multiplex urban networks", https://doi.org/10.7910/DVN/GSOPCK, and data made public from openstreetmaps here 
+https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GSOPCK 
 
 ## Plots
 
