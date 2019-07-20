@@ -11,6 +11,11 @@ Retrieving the information from twitter data https://perrystephenson.me/2018/08/
 3.  Another type of data, which was preprocesses by  Natera Orozco, Luis Guillermo, 2019, "Multiplex urban networks", https://doi.org/10.7910/DVN/GSOPCK, and data made public from openstreetmaps here 
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GSOPCK 
 
+## Code (under construction)
+
+1. *analys_plot_networks_from_files.ipynb *	reads and analyses simple network from file 	
+2. *twitter_location_data.ipynb* reads twitter data and analyses geolocation (with Lisa)
+
 ## Plots
 
 These are results from discussions (mini hackathon) which started from the visit of Lisa Hehnke from Correlaid.
